@@ -18,3 +18,5 @@ public byte calculateCheckSum(byte[] dataInBytes) {
     }
     
 ```
+
+Othe code is used from GFG
